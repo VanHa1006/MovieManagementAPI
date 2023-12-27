@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagementAPI", "MovieManagementAPI\MovieManagementAPI.csproj", "{5DE60519-0A9C-488A-8A2D-E11715C2B572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A61CE45F-5185-49CD-8BE7-4DB26F573AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{751F98D6-554E-45F7-AE87-533087C1536A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE60519-0A9C-488A-8A2D-E11715C2B572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE60519-0A9C-488A-8A2D-E11715C2B572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE60519-0A9C-488A-8A2D-E11715C2B572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE60519-0A9C-488A-8A2D-E11715C2B572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61CE45F-5185-49CD-8BE7-4DB26F573AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61CE45F-5185-49CD-8BE7-4DB26F573AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61CE45F-5185-49CD-8BE7-4DB26F573AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61CE45F-5185-49CD-8BE7-4DB26F573AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751F98D6-554E-45F7-AE87-533087C1536A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751F98D6-554E-45F7-AE87-533087C1536A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751F98D6-554E-45F7-AE87-533087C1536A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751F98D6-554E-45F7-AE87-533087C1536A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D16B68-B990-4A27-BF0C-B42D5194F8FE}
+	EndGlobalSection
+EndGlobal
